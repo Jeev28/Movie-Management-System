@@ -1,0 +1,30 @@
+ID,Platform,Genre,Title,Publisher,Purchase Date
+cod01,Playstation,Action,Call Of Duty,Activision,01/08/2021
+fifa02,Playstation,Sports,FIFA,EA Sports,01/08/2019
+cod02,Playstation,Action,Call Of Duty,Activision,01/09/2021
+tlo03,Xbox,Adventure,The Last of Us,Sony Interactive Entertainment,15/05/2023
+mrio04,Nintendo,Platformer,Mario Bros,Nintendo EAD,04/08/2016
+zlda05,Nintendo,Action-Adventure,The Legend of Zelda,Nintendo EAD,10/12/2020
+gta06,Xbox,Action-Adventure,Grand Theft Auto,Rockstar Games,22/09/2016
+halo07,Xbox,First-Person Shooter,Halo,Microsoft Studios,03/06/2023
+mcrf08,Playstation,Racing,Need for Speed,Electronic Arts,18/04/2022
+forn09,Playstation,Survival,Fortnite,Epic Games,09/08/2020
+mssc10,Xbox,Sports,Madden NFL,EA Sports,07/02/2016
+ptld11,Nintendo,Puzzle,Portal,Valve,12/10/2022
+dsou12,Playstation,Role-Playing,Dark Souls,Bandai Namco,29/03/2018
+spdr13,Playstation,Action-Adventure,Spider-Man,Sony Interactive Entertainment,08/09/2016
+smsh14,Nintendo,Fighting,Super Smash Bros,Nintendo EAD,17/12/2023
+skyw15,Nintendo,Action-Adventure,Skyward Sword,Nintendo EAD,21/11/2016
+rdnt16,Playstation,Stealth,Red Dead Redemption,Rockstar Games,02/05/2018
+crys17,Playstation,Role-Playing,Crystal Chronicles,Square Enix,14/07/2016
+wiis18,Nintendo,Sports,Wii Sports,Nintendo EAD,05/12/2023
+asas19,Playstation,Action-Adventure,Assassin's Creed,Ubisoft,19/08/2016
+mrtk20,Xbox,Survival,Metro Exodus,Deep Silver,28/02/2023
+pkmn21,Nintendo,Role-Playing,Pokemon,Nintendo EAD,11/10/2023
+frtn22,Xbox,Survival,Far Cry,Ubisoft,09/06/2020
+zmbi23,Playstation,Horror,ZombiU,Ubisoft,16/03/2020
+swrd24,Nintendo,Role-Playing,Sword Art Online,Bandai Namco,20/09/2016
+spkl25,Xbox,Platformer,Spelunky,Mossmouth,14/07/2018
+gbm01,Gameboy,Adventure,Pokemon Red,Game Freak,03/05/2019
+gbm02,Gameboy,Puzzle,Tetris,Nintendo R&D1,20/12/2017
+gbm03,Gameboy,Platformer,Super Mario Land,Nintendo EAD,10/08/2015

@@ -1,0 +1,23 @@
+GameID,Rating,Comments
+cod01,5,Excellent game!
+fifa02,4,Great but could be better.
+acr03,3,Average experience.
+tlo04,2,Not very engaging.
+cod01,5,Highly enjoyable!
+mcrf08,5,Excellent Game!
+tlo03,2,Good but could be better.
+zlda05,1,Not very engaging.
+gta06,3,Average experience.
+zmbi23,1,Boring.
+spkl25,1,Rubbish experience.
+mssc10,1,Good but could be better.
+ptld11,3,Average experience.
+spkl25,3,Average experience.
+skyw15,2,Good but could be better.
+wiis18,4,Excellent Game!
+rdnt16,3,Not very engaging.
+zmbi23,3,Average experience.
+wiis18,1,Good but could be better.
+zmbi23,2,Average experience.
+spkl25,1,Boring experience.
+ptld11,3,Not very engaging.
