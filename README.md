@@ -7,7 +7,7 @@
 - [Video Demo](#video-demonstration)
 
 ## Summary
-A video game rental management system, developed in Python using Matplotlib for visualisations on Jupyter Notebook. The system enables a store manager to manage video game rentals based on customer subscriptions. The manager can also check the availability of video games, rent them out to customersd and a maintain a database of all video games in the inventory.
+A video game rental management system, developed in Python using Matplotlib for visualisations on Jupyter Notebook. The system enables a store manager to manage video game rentals based on customer subscriptions. The manager can also check the availability of video games, rent them out to customers and a maintain a database of all video games in the inventory.
 
 
 ## Important Files and Specification
